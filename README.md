@@ -1,6 +1,6 @@
-# online
+# ElimuDoc
 
-A new Flutter project.
+This project is to help high school students with there revision 
 
 ## Getting Started
 
