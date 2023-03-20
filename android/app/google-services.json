@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245008808035",
+    "project_id": "writeon-b6505",
+    "storage_bucket": "writeon-b6505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245008808035:android:2a99cb09594c129fe66056",
+        "android_client_info": {
+          "package_name": "com.DevCorp.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245008808035-tqf2avetkc963rs9786f5446kpdppv3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVDnXsPpf-SnNxgPiQnXYUcbaQj6MvDRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245008808035-tqf2avetkc963rs9786f5446kpdppv3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
